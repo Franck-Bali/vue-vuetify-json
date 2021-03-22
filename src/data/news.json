@@ -1,0 +1,74 @@
+{
+    "1" : {
+        "titre" : "Gilet à rayures",
+        "description" : "",
+        "prix" : 10.99,
+        "image" : "/products/1.png",
+        "img1" : "/products/1/1.jpeg",
+        "img2" : "/products/1/2.jpeg",
+        "img3" : "/products/1/3.jpeg"
+    },
+    "2" : {
+        "titre" : "Crop top style rustique bandage",
+        "description" : "ok2",
+        "prix" : 9.99,
+        "image" : "/products/2.png",
+        "img1" : "/products/2/1.jpeg",
+        "img2" : "/products/2/2.jpeg",
+        "img3" : "/products/2/3.jpeg"
+    },
+    "3" : {
+        "titre" : "Jogging basique à ourlet resserré",
+        "description" : "ok3",
+        "prix" : 14.99,
+        "image" : "/products/3.png",
+        "img1" : "/products/3/1.jpeg",
+        "img2" : "/products/3/2.jpeg",
+        "img3" : "/products/3/3.jpeg"
+    },
+    "4" : {
+        "titre" : "Pantalon coupe ajustée rouge",
+        "description" : "ok4",
+        "prix" : 12.50,
+        "image" : "/products/4.png",
+        "img1" : "/products/4/1.jpeg",
+        "img2" : "/products/4/2.jpeg",
+        "img3" : "/products/4/3.jpeg"
+    },
+    "5" : {
+        "titre" : "Robe patineuse foncée devant imprimé petites fleurs",
+        "description" : "ok5",
+        "prix" : 14.99,
+        "image" : "/products/5.png",
+        "img1" : "/products/5/1.jpeg",
+        "img2" : "/products/5/2.jpeg",
+        "img3" : "/products/5/3.jpeg"
+    },
+    "6" : {
+        "titre" : "Suvêtement à capuche imprimé MAN sur l'ensemble",
+        "description" : "ok6",
+        "prix" : 22.00,
+        "image" : "/products/6.png",
+        "img1" : "/products/6/1.jpeg",
+        "img2" : "/products/6/2.jpeg",
+        "img3" : "/products/6/3.jpeg"
+    },
+    "7" : {
+        "titre" : "Pantalon fuselé coupe étoile à ceinture et boucle large",
+        "description" : "ok7",
+        "prix" : 15.99,
+        "image" : "/products/7.png",
+        "img1" : "/products/7/1.jpeg",
+        "img2" : "/products/7/2.jpeg",
+        "img3" : "/products/7/3.jpeg"
+    },
+    "8" : {
+        "titre" : "Veste ouversize en velours côtelé",
+        "description" : "ok8",
+        "prix" : 12.00,
+        "image" : "/products/8.png",
+        "img1" : "/products/8/1.jpeg",
+        "img2" : "/products/8/2.jpeg",
+        "img3" : "/products/8/3.jpeg"
+    }
+}
