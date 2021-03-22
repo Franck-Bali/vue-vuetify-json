@@ -7,7 +7,7 @@
                         <v-col xl="6" lg="6" md="12">
                             <div>
                                 <v-img width="100%" class="sary" :src="val.image"></v-img>
-                                <v-row>
+                                <v-row class="mt-2">
                                     <v-col>
                                         <img width="100%" class="sary" :src="val.img1"/>
                                     </v-col>
@@ -20,9 +20,11 @@
                                 </v-row>
                             </div>
                         </v-col>
-                        <v-col cols="6" xl="6" lg="6" md="12" sm="12" xs="12">
-                            <Listegg v-bind:titre="val.titre" v-bind:description="val.description" v-bind:prix="val.prix">
-                            </Listegg>
+                        <v-col xl="6" lg="6" md="12" sm="12" xs="12">
+                            <v-container>
+                                <Listegg v-bind:titre="val.titre" v-bind:description="val.description" v-bind:prix="val.prix">
+                                </Listegg>
+                            </v-container>
                         </v-col>
                     </v-row>
                 </span>
