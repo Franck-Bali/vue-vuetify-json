@@ -1,7 +1,7 @@
 {
     "1" : {
         "titre" : "Gilet à rayures",
-        "description" : "",
+        "description" : "Un choix de gilet rayure disponible dans notre magasin. Codes Promo, vente flash livraison offerte, trouvez le produit de vos rêves à prix réduite",
         "prix" : 10.99,
         "image" : "/products/1.png",
         "img1" : "/products/1/1.jpeg",
@@ -10,7 +10,7 @@
     },
     "2" : {
         "titre" : "Crop top style rustique bandage",
-        "description" : "ok2",
+        "description" : "Découvrir le crop top style rustique bandage de Booho, parmis notre dernière collection Tops rouge et faites-vous plaisir en shoppant en ligne dès maintenant",
         "prix" : 9.99,
         "image" : "/products/2.png",
         "img1" : "/products/2/1.jpeg",
@@ -19,7 +19,7 @@
     },
     "3" : {
         "titre" : "Jogging basique à ourlet resserré",
-        "description" : "ok3",
+        "description" : "Resseré aux chevilles, la dernière pièce must-have de la nouvelle collection prettyLittleThing, pour une livraison express gratuitement à ne pas ratter",
         "prix" : 14.99,
         "image" : "/products/3.png",
         "img1" : "/products/3/1.jpeg",
@@ -28,7 +28,7 @@
     },
     "4" : {
         "titre" : "Pantalon coupe ajustée rouge",
-        "description" : "ok4",
+        "description" : "Une large choix de pantalons coupes ajustées pour femme sur ce site et dans nos magasin, avec une reduction accompagné de la livraison gratuite, on n'attend plus que vous",
         "prix" : 12.50,
         "image" : "/products/4.png",
         "img1" : "/products/4/1.jpeg",
@@ -37,7 +37,7 @@
     },
     "5" : {
         "titre" : "Robe patineuse foncée devant imprimé petites fleurs",
-        "description" : "ok5",
+        "description" : "Forever New, avec manche, détails foncés avec imprimé floral noir, ASOS Design Curve, robe patineuse courte cache-coeur nouée à ne pas ratter pour cette nouvelle saison",
         "prix" : 14.99,
         "image" : "/products/5.png",
         "img1" : "/products/5/1.jpeg",
@@ -46,7 +46,7 @@
     },
     "6" : {
         "titre" : "Suvêtement à capuche imprimé MAN sur l'ensemble",
-        "description" : "ok6",
+        "description" : "MANLUODANNI Ensemble sûrvetement Homme pantalon jogging 2019, deux pièces chaud à capuchon avec marque imprimée, incontournable cette saison avec une gamme d'option de style à la mode",
         "prix" : 22.00,
         "image" : "/products/6.png",
         "img1" : "/products/6/1.jpeg",
@@ -55,7 +55,7 @@
     },
     "7" : {
         "titre" : "Pantalon fuselé coupe étoile à ceinture et boucle large",
-        "description" : "ok7",
+        "description" : "Achetez oodji Collection Femme avec centure, Rekucci Pantalon Ultra Confort pour femme coupe droite, facile à porter, avec une boucle en métal, venez dès maintenant à notre magasin ou commandez ici",
         "prix" : 15.99,
         "image" : "/products/7.png",
         "img1" : "/products/7/1.jpeg",
@@ -64,7 +64,7 @@
     },
     "8" : {
         "titre" : "Veste ouversize en velours côtelé",
-        "description" : "ok8",
+        "description" : "Manche longue, poches sur la poitrine, col, fermeture boutonnée sur le devant, coupe slim, matériau en coton, cet article est parfaitement faite pour vous, une livraison gratuite décerné au 10 premiers acheteurs",
         "prix" : 12.00,
         "image" : "/products/8.png",
         "img1" : "/products/8/1.jpeg",
